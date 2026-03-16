@@ -14,3 +14,4 @@ This project demonstrates how SQL can be used to manage and analyze grocery stor
 ## 🚀 Skills Demonstrated
 - SQL Joins
 - Aggregations
+
